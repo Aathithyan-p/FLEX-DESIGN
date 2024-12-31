@@ -1,0 +1,245 @@
+*{
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+}
+.first{
+     width: 200px;
+    height: 680px;
+}
+.head{
+    margin: 15px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nav{
+    margin-top: 30px;
+    margin-left: 20px;
+    font-weight: 500;
+    font-size: 19px;
+}
+.gra{
+    margin-top: 280px;
+    margin-left: 20px;
+}
+.grac{
+    font-weight: bold;
+    font-size: 20px;
+    display: flex;
+}
+.ico{
+    margin-left: 50px;
+}
+.tea{
+    font-size: 20px;
+    color: rgb(112, 109, 109);
+}
+.ic{
+    margin-left: 130px;
+}
+.new{
+    margin: 10px;
+}
+.sec{
+    margin-top: 10px;
+    border: 15px solid rgb(155, 147, 147);
+    width: 800px;
+    height: 640px;
+    margin-left: 5px;
+    border-radius: 10px;;
+}
+.title{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid rgb(155, 147, 147);
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.fx{
+    margin-top: 10px;
+    margin-left: 5px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.invoices{
+    margin-top: 10px;
+    margin-right: 5px;
+    
+}
+.service{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+}
+.ser{
+    margin-left: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+.tin{
+    margin-right: 5px;
+    font-size: 15px;
+    margin-top: 5px;
+}
+.address{
+    margin-top: 30px;
+    margin-left: 5px;
+}
+.to{
+    font-weight: bold;
+}
+.content{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(155, 147, 147);
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 3px;
+}
+.landing{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.subtotal{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.subtot{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.total{
+    margin-top: 60px;
+    margin-left: 5px    ;
+}
+.footer{
+    margin-top: 90px;
+    text-align: center;
+    color: rgb(155, 147, 147);
+}
+.third{
+       width: 350px;
+}
+.heading{
+    margin-top: 25px;
+    margin-left: 15px;
+    font-weight: bold;
+}
+.client{
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.business{
+    margin-left: 15px;
+    border: 2px solid black;
+    width: 250px;
+    padding: 2px;
+    border-radius: 5px;
+    background-color: rgb(247, 246, 230);
+}
+.bus{
+    font-weight: bold;
+}
+.dev{
+    color: silver;
+}
+.idt{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.aug{
+    border: 2px solid silver;
+    width: 250px;
+    border-radius: 5px;
+    font-weight: bold;
+    background-color: rgb(247, 246, 230);
+}
+.taxes{
+    margin-top: 15px;
+    margin-left: 15px;
+
+}
+.per{
+    border: 2px solid silver;
+    width: 250px;
+    border-radius: 5px;
+    font-weight: bold;
+    background-color: rgb(247, 246, 230);
+}
+.des{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.page{
+    margin-left: 15px;
+    padding: 5px;
+    border: 2px solid silver;
+    width: 250px;
+    border-radius: 5px;
+    font-weight: bold;
+    background-color: rgb(247, 246, 230);
+}
+.host{
+    margin-top: 5px;
+    margin-left: 15px;
+    padding: 5px;
+    border: 2px solid silver;
+    width: 250px;
+    border-radius: 5px;
+    font-weight: bold;
+    background-color: rgb(247, 246, 230);
+}
+.media{
+    margin-top: 5px;
+    margin-left: 15px;
+    padding: 5px;
+    border: 2px solid silver;
+    width: 250px;
+    border-radius: 5px;
+    font-weight: bold;
+    background-color: rgb(247, 246, 230);
+}
+.add{
+    margin-top: 5px;
+    margin-left: 15px;
+    color: blue;
+    font-weight: bold;
+}
+.btn{
+    margin-top: 50px;
+    margin-left: 15px;
+    width: 250px;
+    padding: 5px;
+}
+.se{
+    width: 250px;
+    padding: 8px 30px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+.print{
+    margin-left: 30px;
+}
+.print{
+    padding: 5px 15px;
+    border-radius: 5px rgb(135, 128, 128);
+}
+.down{
+      padding: 5px 15px;
+    border-radius: 5px rgb(135, 128, 128);
+}
